@@ -31,7 +31,7 @@ body{
     margin-left:10px;
 }
 
-.left-box{
+.purple:first-child{
     margin-left: 0;
 }
 
@@ -71,7 +71,7 @@ body{
     border: solid 5px white;
     margin-top: 10px;
 }
-.top-box{
+.orange:first-child{
     margin-top: 0;
 }
 
